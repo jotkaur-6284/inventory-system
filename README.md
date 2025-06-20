@@ -42,6 +42,43 @@ This is a full-stack web application built to manage inventory in real-time. It 
 | POST   | `/update_item.php?id={id}`                               | Update specific fields  |
 | GET    | `/delete_item.php?id={id}`                               | Delete item             |
 
+
+
+## Home Page
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/1.PNG
+
+
+## Dashboard Page
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/2dashboard.PNG
+
+
+## Low Stock
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/3lowstock.PNG
+
+
+## All Items 
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/4allitem.PNG
+
+
+## Form Page for adding items
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/5form.PNG
+
+
+## view all item 
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/6view.PNG
+
+
+## Filter the items 
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/7testfilter.PNG
+
+
+## Update the items
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/8update.PNG
+
+
+## Data saved in the database
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/9db.PNG
+
 ## 🧩 Database Setup
 
 Run the `setup.sql` script in your MySQL database to create the `inventory_db` and `items` table.
@@ -62,7 +99,3 @@ CREATE TABLE IF NOT EXISTS items (
 
 
 
-
-## LOGIN PAGE
-### If the user exists then only user can log in otherwise it will say "Please Signup"
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/1.PNG
