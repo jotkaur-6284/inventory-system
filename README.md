@@ -59,3 +59,10 @@ CREATE TABLE IF NOT EXISTS items (
   description TEXT,
   low_stock_threshold INT
 );
+
+
+
+
+## LOGIN PAGE
+### If the user exists then only user can log in otherwise it will say "Please Signup"
+![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/1.PNG
