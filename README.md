@@ -45,39 +45,39 @@ This is a full-stack web application built to manage inventory in real-time. It 
 
 
 ## Home Page
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/1.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/1.PNG?raw=true)
 
 
 ## Dashboard Page
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/2dashboard.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/2dashboard.PNG?raw=true)
 
 
 ## Low Stock
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/3lowstock.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/3lowstock.PNG?raw=true)
 
 
 ## All Items 
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/4allitem.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/4allitem.PNG?raw=true)
 
 
 ## Form Page for adding items
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/5form.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/5form.PNG?raw=true)
 
 
 ## view all item 
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/6view.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/6view.PNG?raw=true)
 
 
 ## Filter the items 
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/7testfilter.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/7testfilter.PNG?raw=true)
 
 
 ## Update the items
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/8update.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/8update.PNG?raw=true)
 
 
 ## Data saved in the database
-![image]https://github.com/jotkaur-6284/inventory-system/blob/main/img/9db.PNG
+![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/9db.PNG?raw=true)
 
 ## 🧩 Database Setup
 
