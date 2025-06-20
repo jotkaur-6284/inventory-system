@@ -1,3 +1,4 @@
+
 # Real-Time Inventory Management System
 
 This is a full-stack web application built to manage inventory in real-time. It allows users to **add, view, update, and delete inventory items**, with a dashboard displaying key statistics like total items, low stock, and out of stock.
@@ -78,6 +79,12 @@ This is a full-stack web application built to manage inventory in real-time. It 
 
 ## Data saved in the database
 ![image](https://github.com/jotkaur-6284/inventory-system/blob/main/img/9db.PNG?raw=true)
+
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 🧩 Database Setup
 
